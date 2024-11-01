@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historial de Solicitudes</title>
+
+    <link rel="stylesheet" href="../css/historial.css">
+</head>
+<body>
+    <header>
+
+   <h1>Historial de Solicitudes</h1>
+
+   <select id="selectorHist">
+    <option value="todo">Total</option>
+    <option  value="aceptados">Aceptadas</option>
+    <option value="rechazados">Rechazadas</option>
+    </select>
+
+    <input type="search" id="buscar" placeholder="Buscar nombre, fecha o estado">
+
+   </header>
+   
+<br>
+<br>
+
+   <table>
+    <thead>
+      <tr>
+        <th class="fila">Nombre</th>
+        <th class="fila">Apellidos</th>
+        <th class="fila">Sede</th>
+        <th class="fila">Codigo de PC</th>
+        <th class="fila">Fecha de Salida</th>
+        <th class="fila">Fecha de entrada</th>
+        <th class="fila">Estado</th>
+
+      </tr>
+    </thead>
+    <tbody id="crearfilas">
+
+
+  
+
+    </tbody>
+    <tfoot>
+
+</table>
+    
+
+
+    <script type="module" src="../js/historial.js"></script>
+    
+</body>
+</html>

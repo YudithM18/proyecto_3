@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+     <link rel="stylesheet" href="../css/formulario.css">
+</head>
+<body>
+
+    <header id="header">
+        <button id="btnC">Cerrar Sesión</button>
+        <h1>Formulario para la solicitud de computadoras</h1>
+    </header>
+    <br>
+    
+    <div class="div">
+        <div id="formulario">
+            <p>Nombre</p>
+            <input type="text" name="" id="nombreFormulario">
+            <p>Apellido</p>
+            <input type="text" name="" id="apellidoFormulario">
+            <p>Sede</p>
+            <select id="selector">
+                <option value="">Seleccionar</option>
+                <option value="nosara">Nosara</option>
+                <option value="santaAna">Santa Ana</option>
+                <option value="puntarenas">Puntarenas</option>   
+            </select>
+            <p>Codigo de la computadora</p>
+            <input type="text" name="" id="codigoFormulario">
+            <p>Fecha de salida</p>
+            <input type="date" name="" id="salidaFormulario">
+            <p>Fecha de regreso</p>
+            <input type="date" name="" id="regresoFormulario">
+    
+            <br>
+            <br>
+            <p>Terminos y condiciones</p>
+            <input type="checkbox" name="" id="checkbox">
+            <br>
+            <button id="btnS">Enviar solicitud</button>
+            <p id="anuncio"></p>
+        </div>
+    
+    <div id="listaSolicitud">
+    </div>
+    
+    </div>
+
+    <script type="module" src="../js/formulario.js"></script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "79a3",
+      "usuario": "Paula654",
+      "correo": "marin@fwd.com",
+      "pass": "trew",
+      "codigo": "adm01"
+    },
+    {
+      "id": "be39",
+      "usuario": "Emel86",
+      "correo": "mayorga@fwd.com",
+      "pass": "rhh",
+      "codigo": "estud04"
+    },
+    {
+      "id": "64d2",
+      "usuario": "Yancy12",
+      "correo": "alfaro@fwd.com",
+      "pass": "12323",
+      "codigo": "estud04"
+    },
+    {
+      "id": "f9c6",
+      "usuario": "Michelle",
+      "correo": "lopez@fwd.com",
+      "pass": "poiu",
+      "codigo": "estud04"
+    }
+  ],
+  "solicitudes": [],
+  "historial": [
+    {
+      "id": "dfff",
+      "nombreFormulario": {
+        "nombre": "Emel",
+        "apellido": "Mayorga",
+        "codigo": "CFRD",
+        "sede": "nosara",
+        "registroSalida": "2024-08-28",
+        "registroRegreso": "2024-08-31",
+        "estado": "Aceptada"
+      }
+    },
+    {
+      "id": "1eb0",
+      "nombreFormulario": {
+        "nombre": "Pedro",
+        "apellido": "Matamoros",
+        "codigo": "ycr6d6",
+        "sede": "santaAna",
+        "registroSalida": "2024-08-14",
+        "registroRegreso": "2024-08-17",
+        "estado": "Rechazada"
+      }
+    },
+    {
+      "id": "c9ee",
+      "nombreFormulario": {
+        "nombre": "Michelle",
+        "apellido": "Arrieta",
+        "codigo": "CFRD",
+        "sede": "nosara",
+        "registroSalida": "2024-08-07",
+        "registroRegreso": "2024-08-14",
+        "estado": "Aceptada"
+      }
+    },
+    {
+      "id": "22a3",
+      "nombreFormulario": {
+        "nombre": "Maria",
+        "apellido": "Hernandez",
+        "codigo": "P093",
+        "sede": "puntarenas",
+        "registroSalida": "2024-07-29",
+        "registroRegreso": "2024-08-03",
+        "estado": "Rechazada"
+      }
+    },
+    {
+      "id": "ba2d",
+      "nombreFormulario": {
+        "nombre": "Cassandra",
+        "apellido": "Olivares",
+        "codigo": "P093",
+        "sede": "nosara",
+        "registroSalida": "2024-07-29",
+        "registroRegreso": "2024-08-03",
+        "estado": "Rechazada"
+      }
+    },
+    {
+      "id": "3d7c",
+      "nombreFormulario": {
+        "nombre": "Pedro",
+        "apellido": "ctfxt",
+        "codigo": "CFRD",
+        "sede": "nosara",
+        "registroSalida": "2024-08-21",
+        "registroRegreso": "2024-08-14",
+        "estado": "Aceptada"
+      }
+    },
+    {
+      "id": "2b6a",
+      "nombreFormulario": {
+        "nombre": "Emel",
+        "apellido": "Mayorga",
+        "codigo": "CFRD",
+        "sede": "nosara",
+        "registroSalida": "2024-08-14",
+        "registroRegreso": "2024-08-30",
+        "estado": "Aceptada"
+      }
+    },
+    {
+      "id": "af09",
+      "nombreFormulario": {
+        "nombre": "Pedro",
+        "apellido": "ctfxt",
+        "codigo": "P093",
+        "sede": "nosara",
+        "registroSalida": "2024-08-23",
+        "registroRegreso": "2024-08-17",
+        "estado": "Rechazada"
+      }
+    }
+  ]
+}
